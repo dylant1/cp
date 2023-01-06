@@ -1,3 +1,6 @@
+#include <iostream>
+#include <stdio.h>
+#include <string.h>
 #include "MagicalStringDiv2.cpp"
 
 int main(int argc, char **argv)
